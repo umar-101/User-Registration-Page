@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "357812597988",
+    "project_id": "registraionpage-fedd6",
+    "storage_bucket": "registraionpage-fedd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357812597988:android:0b83def1d2b3179c3be8f1",
+        "android_client_info": {
+          "package_name": "com.example.flutter_form_validator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357812597988-eh15vk65es17sui5ffae0m33a0kgg46n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc-cM-ROyhBd1GZiYh6GK0On0_DZxj61g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357812597988-eh15vk65es17sui5ffae0m33a0kgg46n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
